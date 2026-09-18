@@ -1,0 +1,9 @@
+/* Minimal global reset – main styles live in styles/App.css */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
